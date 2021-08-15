@@ -6,3 +6,6 @@ Architecture of N-BEATS:
 Research Paper: N-BEATS: NEURAL BASIS EXPANSION ANALYSIS FOR
 INTERPRETABLE TIME SERIES FORECASTING
 https://arxiv.org/pdf/1905.10437.pdf
+
+Results:
+N-BEATS algorithm achieved very poor results (almost equal to a Naive Bayes model), Because of the randomness of the open market in bitcoin.
